@@ -1,2 +1,2 @@
 # jtech
-Repository for all jtech associated resources
+Repository for all jtech associated resources and code
